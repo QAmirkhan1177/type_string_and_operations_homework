@@ -6,4 +6,6 @@ def main():
     Returns:
         str: return answer.
     """
-    return 
+    return  len("a")%2==0
+print(main("code"))
+    
