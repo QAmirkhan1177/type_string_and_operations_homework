@@ -6,5 +6,11 @@ def main(first,last):
         last: str
     Returns:
         str: return answer.
-    """
-    return 
+    """    
+    first="Otabek"
+    last="Tursunov"
+    
+    s =" %s + %s= %s " %(last, first,last+first)
+    return s
+print (main())
+    
