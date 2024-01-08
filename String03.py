@@ -6,4 +6,9 @@ def main():
     Returns:
         str: return answer.
     """
-    return 
+    s1="code"
+    s2="academy"
+    op="+"
+    s =" %s %s " %(s1,s2)
+    return s
+print (main())
